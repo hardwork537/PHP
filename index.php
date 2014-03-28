@@ -1,6 +1,3 @@
 <?php 
-'dccc';
-'bbb';
-'aaa';
-    echo 'My Name Is tony!';
+    echo 'Hello everybody! My Name Is 老扁!';
 ?>
